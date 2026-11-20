@@ -2,7 +2,6 @@
 
 In this workshop you will add, change, remove, and find data in the Tutoring Center database. Use pgAdmin in your Codespace and select the `week13` database. The starter data is already loaded: Grace Hopper and Alan Turing are tutors; Ada Lovelace, Katherine Johnson, and Marie Curie are students. Save the SQL you write in [`answers/week13.sql`](answers/week13.sql).
 
-The full assignment handout is here: [`Week 13 - In-Class Workshop (pgAdmin Codespace).docx`](Week%2013%20-%20In-Class%20Workshop%20(pgAdmin%20Codespace).docx).
 
 ## 1 Check the starting data
 
